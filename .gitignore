@@ -1,5 +1,9 @@
 # Ignore metadata from Eclipse
-
 *.metadata/
 
 *.metadata
+
+
+# Ignore Eclipse settings
+*.classpath
+*.project
