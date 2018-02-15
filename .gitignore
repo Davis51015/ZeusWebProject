@@ -4,6 +4,3 @@
 *.metadata
 
 
-# Ignore Eclipse settings
-*.classpath
-*.project

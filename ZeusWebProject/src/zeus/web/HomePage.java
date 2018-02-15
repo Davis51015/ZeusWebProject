@@ -29,7 +29,6 @@ public class HomePage extends HttpServlet {
 		
 		//Redirect to homepage
 		request.getRequestDispatcher("views/index.jsp").forward(request, response);
-
 	}
 
 	/**
