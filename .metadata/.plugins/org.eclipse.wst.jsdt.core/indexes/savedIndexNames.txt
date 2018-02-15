@@ -1,9 +1,2 @@
-INDEX VERSION 1.4+C:\Users\dds1010\Desktop\ZeusWebProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-386466918.index
-2300627342.index
-4268092730.index
-2024410754.index
-2212904060.index
-3316065582.index
-4083023658.index
-44999904.index
+INDEX VERSION 1.4+/Users/Davis/Desktop/ZeusWebProject/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2496105641.index

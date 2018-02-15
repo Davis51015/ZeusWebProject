@@ -17,16 +17,14 @@
 --><web-app version="4.0" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee                       http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
 
 	<servlet>
-		<servlet-name>HomePage</servlet-name>
-		<servlet-class>zeus.web.HomePage</servlet-class>
+		<servlet-name>WebController</servlet-name>
+		<servlet-class>zeus.web.WebController</servlet-class>
 	</servlet>
 	
 	<servlet-mapping>
-		<servlet-name>HomePage</servlet-name>
-		<url-pattern>/HomePage</url-pattern>		
+		<servlet-name>WebController</servlet-name>
+		<url-pattern>/WebController</url-pattern>		
 	</servlet-mapping>
-
-
   <!-- ======================== Introduction ============================== -->
   <!-- This document defines default values for *all* web applications      -->
   <!-- loaded into this instance of Tomcat.  As each application is         -->
@@ -4708,7 +4706,7 @@
   <!-- to use within your application.                                       -->
 
     <welcome-file-list>
-    		<welcome-file>HomePage</welcome-file>
+    		<welcome-file>WebController</welcome-file>
         <welcome-file>index.html</welcome-file>
         <welcome-file>index.htm</welcome-file>
         <welcome-file>index.jsp</welcome-file>
