@@ -1,0 +1,3 @@
+127.0.0.1 - - [15/Feb/2018:08:24:35 -0500] "GET / HTTP/1.1" 500 3459
+127.0.0.1 - - [15/Feb/2018:08:24:35 -0500] "GET /ZeusWebProject/HomePage HTTP/1.1" 200 10182
+127.0.0.1 - - [15/Feb/2018:08:24:35 -0500] "GET /ZeusWebProject/public/css/style.css HTTP/1.1" 304 -
